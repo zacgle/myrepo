@@ -1,0 +1,20 @@
+Server: GitHub.com
+Date: Mon, 26 Mar 2018 05:19:04 GMT
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache
+Vary: X-PJAX
+Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Fri, 26 Mar 2038 05:19:04 -0000; secure; HttpOnly
+Set-Cookie: _gh_sess=ekd5dHpxdW84bWdmclJJVkkxL085SlRYQzg0R0E1eVJzd0g2ejFQaklHVTV3Yy9TL3VVVWt5M1dUL0NaYlBlNzJ5QlNQcDNkNlg2aEZ1bm4xSDBDQVFsN3dPbGxvYkcvSGtmRTdIV01WQkFxRXdvL0R0VXZnMlBTMDhxN0pxZEpnVmh0dWJrbjcvRmNWWmhESGhmZnRrNHNRVVhyTTN2ODF2cVA2SXcxK0JLRCtyUmhFTTVmUXM0UDNaZE1GZU9nTXlBTlpyZWpVTmt4UDVLTVBrcDVRQT09LS11OFY5MEhUMnV6TGNXRmY2dmNBQWNRPT0%3D--f80b941172895607339b632898d28c9a618c0415; path=/; secure; HttpOnly
+X-Request-Id: 57f4e06f-43ad-4244-a701-d3661d0a5d78
+X-Runtime: 0.635181
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Expect-Ct: max-age=2592000, report-uri="https://api.github.com/_private/browser/errors"
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src render.githubusercontent.com; connect-src 'self' uploads.github.com status.github.com collector.githubapp.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com wss://live.github.com; font-src assets-cdn.github.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; img-src 'self' data: assets-cdn.github.com identicons.github.com collector.githubapp.com github-cloud.s3.amazonaws.com *.githubusercontent.com; manifest-src 'self'; media-src 'none'; script-src assets-cdn.github.com; style-src 'unsafe-inline' assets-cdn.github.com; worker-src 'self'
+X-Runtime-Rack: 0.639569
+Content-Encoding: gzip
+X-Github-Request-Id: 0ECD:0FFB:14EEFE1:2A27FEC:5AB882C2

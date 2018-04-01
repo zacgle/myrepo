@@ -1,0 +1,5 @@
+{"one":{"batch_size":128,"num_classes":10,"epochs":100,"data_augmentation":true,"num_predictions":20,"activation":"relu","metric":"accuracy"},
+  "two":{"batch_size":32,"num_classes":10,"epochs":100,"data_augmentation":true,"num_predictions":20,"activation":"relu","metric":"top_k_categorical_accuracy"},
+  "three":{"batch_size":32,"num_classes":10,"epochs":100,"data_augmentation":true,"num_predictions":20,"activation":"sigmoid","metric":"accuracy"}
+
+}

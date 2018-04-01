@@ -1,0 +1,20 @@
+Server: GitHub.com
+Date: Mon, 26 Mar 2018 05:20:07 GMT
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache
+Vary: X-PJAX
+Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Fri, 26 Mar 2038 05:20:07 -0000; secure; HttpOnly
+Set-Cookie: _gh_sess=M2FVWXNvMlVsdUthbENYcVhac25lcVdEdGl0aWtwcUo3VW9uSVE4UkFVSzNHbzBEbzhxaktERWdZYWIwcC9hek1hQzhQRWZhTTR3czQ4VkV6VG9nRHFwUkRoaU1JL1hIRUYwaGJBV24rZ1daMjNFbVNLZGxIZStaQ05GQzlPWG1yMFY0YVVCMXBreUU3ZEp4a0R4RjZvOXBJdjQ1MGlQbjFnV3VCZGV2clJic2JyZStBQm9YdldiTStsSCttc3M2dCttL1NhTkdhbnZlVk55L2prbTl2dz09LS1TTDA0UXNJRXJZaGNsWkY5dk80LytRPT0%3D--4a5c5eb980b2c4c24a3def719896b841e83d73f1; path=/; secure; HttpOnly
+X-Request-Id: e26ae8fc-922d-4e26-a5a2-90ff6e821a33
+X-Runtime: 0.894614
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Expect-Ct: max-age=2592000, report-uri="https://api.github.com/_private/browser/errors"
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src render.githubusercontent.com; connect-src 'self' uploads.github.com status.github.com collector.githubapp.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com wss://live.github.com; font-src assets-cdn.github.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; img-src 'self' data: assets-cdn.github.com identicons.github.com collector.githubapp.com github-cloud.s3.amazonaws.com *.githubusercontent.com; manifest-src 'self'; media-src 'none'; script-src assets-cdn.github.com; style-src 'unsafe-inline' assets-cdn.github.com; worker-src 'self'
+X-Runtime-Rack: 0.902611
+Content-Encoding: gzip
+X-Github-Request-Id: 0ECD:0FFB:14EFA63:2A29664:5AB88302
